@@ -1,0 +1,15 @@
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net10.0/07-create-a-leaderboard
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net10.0/07-create-a-leaderboard.deps.json
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net10.0/07-create-a-leaderboard.runtimeconfig.json
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net10.0/07-create-a-leaderboard.dll
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net10.0/07-create-a-leaderboard.pdb
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/07-create-a-leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/07-create-a-leaderboard.AssemblyInfoInputs.cache
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/07-create-a-leaderboard.AssemblyInfo.cs
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/07-create-a-leaderboard.csproj.CoreCompileInputs.cache
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/07-create-a-leaderboard.sourcelink.json
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/07-create-a-leaderboard.dll
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/refint/07-create-a-leaderboard.dll
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/07-create-a-leaderboard.pdb
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/07-create-a-leaderboard.genruntimeconfig.cache
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net10.0/ref/07-create-a-leaderboard.dll

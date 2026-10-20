@@ -1,0 +1,15 @@
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net10.0/06-create-guess-the-number-game
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net10.0/06-create-guess-the-number-game.deps.json
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net10.0/06-create-guess-the-number-game.runtimeconfig.json
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net10.0/06-create-guess-the-number-game.dll
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/bin/Debug/net10.0/06-create-guess-the-number-game.pdb
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/06-create-guess-the-number-game.GeneratedMSBuildEditorConfig.editorconfig
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/06-create-guess-the-number-game.AssemblyInfoInputs.cache
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/06-create-guess-the-number-game.AssemblyInfo.cs
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/06-create-guess-the-number-game.csproj.CoreCompileInputs.cache
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/06-create-guess-the-number-game.sourcelink.json
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/06-create-guess-the-number-game.dll
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/refint/06-create-guess-the-number-game.dll
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/06-create-guess-the-number-game.pdb
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/06-create-guess-the-number-game.genruntimeconfig.cache
+/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/Debug/net10.0/ref/06-create-guess-the-number-game.dll
