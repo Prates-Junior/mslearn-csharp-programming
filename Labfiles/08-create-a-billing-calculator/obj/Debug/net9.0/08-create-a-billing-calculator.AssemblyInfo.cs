@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08-create-a-billing-calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+767e0d35c3351f121546f6e59036db3d58bc2144")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96f1840b706621358f9c2136601d053b055e9c83")]
 [assembly: System.Reflection.AssemblyProductAttribute("08-create-a-billing-calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08-create-a-billing-calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
