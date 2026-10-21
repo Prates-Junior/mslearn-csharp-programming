@@ -16,7 +16,7 @@ Console.WriteLine($"\nTotal rounds logged: {allscores.Count}");
 
 
 // Build the Top 5 leaderboard array
-allscores.Sort();
+allscores.Sort(); 
 allscores.Reverse();
 
 int[] topscores = new   int[5];

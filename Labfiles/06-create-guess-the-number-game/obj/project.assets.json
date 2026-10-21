@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/claudio/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/06-create-guess-the-number-game.csproj",
+      "projectUniqueName": "/workspaces/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/06-create-guess-the-number-game.csproj",
       "projectName": "06-create-guess-the-number-game",
-      "projectPath": "/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/06-create-guess-the-number-game.csproj",
-      "packagesPath": "/home/claudio/.nuget/packages/",
-      "outputPath": "/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/",
+      "projectPath": "/workspaces/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/06-create-guess-the-number-game.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/claudio/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/claudio/.dotnet/sdk/10.0.402/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

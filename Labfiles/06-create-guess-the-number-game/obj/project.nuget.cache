@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTVTMyAEN1s=",
+  "dgSpecHash": "pbH0F7NeRYk=",
   "success": true,
-  "projectFilePath": "/home/claudio/Área de trabalho/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/06-create-guess-the-number-game.csproj",
+  "projectFilePath": "/workspaces/mslearn-csharp-programming/Labfiles/06-create-guess-the-number-game/06-create-guess-the-number-game.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
