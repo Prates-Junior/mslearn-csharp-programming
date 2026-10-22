@@ -16,9 +16,16 @@ double total = BillingCalculator.CalculateTotal(subtotal, tax);
 
  
 double outofstateSubtotal = 80.00;
-double outofstateTax = BillingCalculator.CalculateTax(outofstateSubtotal , 0.05);
+double outofstateTax = BillingCalculator.CalculateTax(outofstateSubtotal);
 double outofstateTotal = BillingCalculator.CalculateTotal(outofstateSubtotal, outofstateTax);
 
 Console.WriteLine($"\nOut-of-state subtotal: {outofstateSubtotal:C}");
 Console.WriteLine($"Out-of-state tax:      {outofstateTax:C}");
-Console.WriteLine($"Out-of-state total:    {outofstateTotal:C}");
+Console.WriteLine($"Out-of-state  total:    {outofstateTotal:C}");
+
+double outofstateTaxAtFivePercent = BillingCalculator.CalculateTax(outofstateSubtotal, 0.05);
+double outofstateTotalAtFivePercent = BillingCalculator.CalculateTotal(outofstateSubtotal, outofstateTaxAtFivePercent);
+
+Console.WriteLine($"\nOut-of-state  subtotal: {outofstateSubtotal:C}");
+Console.WriteLine($"Out-of-state  tax:      {outofstateTaxAtFivePercent:C}");
+Console.WriteLine($"Out-of-state  total:    {outofstateTotalAtFivePercent:C}");
