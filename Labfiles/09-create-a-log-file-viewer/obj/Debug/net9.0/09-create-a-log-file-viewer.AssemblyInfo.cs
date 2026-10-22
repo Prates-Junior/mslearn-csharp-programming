@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09-create-a-log-file-viewer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96f1840b706621358f9c2136601d053b055e9c83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5006f3e8fcd13a0182e982d4a2c8175f784e21c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("09-create-a-log-file-viewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09-create-a-log-file-viewer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
