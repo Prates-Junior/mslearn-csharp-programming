@@ -1,0 +1,15 @@
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/bin/Debug/net10.0/08-create-a-billing-calculator
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/bin/Debug/net10.0/08-create-a-billing-calculator.deps.json
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/bin/Debug/net10.0/08-create-a-billing-calculator.runtimeconfig.json
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/bin/Debug/net10.0/08-create-a-billing-calculator.dll
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/bin/Debug/net10.0/08-create-a-billing-calculator.pdb
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/08-create-a-billing-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/08-create-a-billing-calculator.AssemblyInfoInputs.cache
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/08-create-a-billing-calculator.AssemblyInfo.cs
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/08-create-a-billing-calculator.csproj.CoreCompileInputs.cache
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/08-create-a-billing-calculator.sourcelink.json
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/08-create-a-billing-calculator.dll
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/refint/08-create-a-billing-calculator.dll
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/08-create-a-billing-calculator.pdb
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/08-create-a-billing-calculator.genruntimeconfig.cache
+/workspaces/mslearn-csharp-programming/Labfiles/08-create-a-billing-calculator/obj/Debug/net10.0/ref/08-create-a-billing-calculator.dll
