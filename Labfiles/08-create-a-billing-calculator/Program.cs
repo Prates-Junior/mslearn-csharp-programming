@@ -14,9 +14,6 @@ Console.WriteLine($"Tax:     {tax:C}");
 Console.WriteLine($"Total:  {total:C}");
 
 
-
-
-
 double outOfStateSubtotal = 80.00;
 double outOfStateTax = BillingCalculator.CalculateTax(outOfStateSubtotal,0.05);
 double outOfStateTotal = BillingCalculator.CalculateTotal(outOfStateSubtotal, outOfStateTax);
