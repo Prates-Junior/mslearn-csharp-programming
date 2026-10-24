@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07-create-a-leaderboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2338cfba8dc609d4a8b4fec5e44b6c7ed76b645c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d8bbc7fc22de2df919607d15dd0ae034b89951a")]
 [assembly: System.Reflection.AssemblyProductAttribute("07-create-a-leaderboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07-create-a-leaderboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
